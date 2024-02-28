@@ -1,7 +1,5 @@
 # Introduction to Natural Language Processing with Hugging Face Transformers
-### **Author : Svitlana Kramar**
-
-🌟📚✨
+### **Author : Svitlana Kramar🌟📚✨**
 
 ## Overview
 This Guided Project will walk you through some of the applications of Hugging Face Transformers in Natural Language Processing (NLP).
@@ -11,9 +9,7 @@ Hugging Face Transformers package is very popular and versatile Python library t
 - **Name:** Farhan Firmansyah
 - **Program:** IBM Advanced AI
 
-## Table of Contents
-
-📋🔍📝
+## Table of Contents 📋🔍📝
 
 1. Objectives
 2. Setup
